@@ -38,7 +38,7 @@ $userLoggedInObj = new User($con, $usernameLoggedIn);
             </button>
 
             <a class="logoContainer" href="index.php">
-                <img src="assets/images/icons/VideoTubeLogo.png" title="logo" alt="Site logo">
+                <!-- <img src="assets/images/icons/VideoTubeLogo.png" title="logo" alt="Site logo"> -->
             </a>
 
             <div class="searchBarContainer">
