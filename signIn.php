@@ -29,7 +29,7 @@ function getInputValue($name) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>VideoTube</title>
+    <title>Flipstock</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
@@ -48,7 +48,7 @@ function getInputValue($name) {
             <div class="header">
                 <img src="assets/images/icons/VideoTubeLogo.png" title="logo" alt="Site logo">
                 <h3>Sign In</h3>
-                <span>to continue to VideoTube</span>
+                <span>to continue to Flipstock</span>
             </div>
 
             <div class="loginForm">
