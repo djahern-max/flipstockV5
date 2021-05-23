@@ -18,7 +18,7 @@ $userLoggedInObj = new User($con, $usernameLoggedIn);
 <head>
     <title>Flipstock</title>
     <link rel="shortcut icon" type="image/png" href="assets/images/icons/favicon.png">
-         <!-- <img src="assets/images/icons/VideoTubeLogo.png" title="logo" alt="Site logo"> -->
+         <img src="assets/images/icons/favicon.png" title="logo" alt="Site logo">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
@@ -38,9 +38,9 @@ $userLoggedInObj = new User($con, $usernameLoggedIn);
                 <img src="assets/images/icons/menu.png">
             </button>
 
-            <a class="logoContainer" href="index.php">
-                <!-- <img src="assets/images/icons/VideoTubeLogo.png" title="logo" alt="Site logo"> -->
-            </a>
+            <!-- <a class="logoContainer" href="index.php">
+                <img src="assets/images/icons/favicon.png" title="logo" alt="Site logo">
+            </a> -->
 
             <div class="searchBarContainer">
                 <form action="search.php" method="GET">
