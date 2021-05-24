@@ -147,8 +147,8 @@ class VideoProcessor {
         for($num = 1; $num <= $numThumbnails; $num++) {
             $imageName = uniqid() . ".jpg";
             $interval = ($duration * 0.8) / $numThumbnails * $num;
-            // $fullThumbnailPath = "$pathToThumbnail/$videoId-$imageName";
-            $fullThumbnailPath = "uploads/videos/thumbnails/BarrickGold.JPG";
+            $fullThumbnailPath = "$pathToThumbnail/$videoId-$imageName";
+            // $fullThumbnailPath = "uploads/videos/thumbnails/BarrickGold.JPG";
 
             $cmd = "$this->ffmpegPath -i $filePath -ss $interval -s $thumbnailSize -vframes 1 $fullThumbnailPath 2>&1";
 
