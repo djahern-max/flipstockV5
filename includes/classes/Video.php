@@ -230,7 +230,9 @@ class Video {
         $videoId = $this->getId();
         $query->execute();
 
+
         return $query->fetchColumn();
+        
     }
 
 }
