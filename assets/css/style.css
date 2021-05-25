@@ -219,8 +219,42 @@ a:hover {
   flex: 1;
 }
 
-.watchLeftColumn .videoPlayer {
+/* .watchLeftColumn .videoPlayer {
   width: 100%;
+} */
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .watchLeftColumn .videoPlayer {
+    width: 100%;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .watchLeftColumn .videoPlayer {
+    width: 80%;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .watchLeftColumn .videoPlayer {
+    width: 90%;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .watchLeftColumn .videoPlayer {
+    width: 90%;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .watchLeftColumn .videoPlayer {
+    width: 35%;
+  }
 }
 
 .suggestions {
@@ -509,7 +543,7 @@ a:hover {
 }
 
 .videoGridItem .thumbnail {
-  width: 210px;
+  width: 180px;
   height: 118px;
   position: relative;
 }
