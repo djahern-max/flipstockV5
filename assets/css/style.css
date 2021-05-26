@@ -232,28 +232,42 @@ a:hover {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .watchLeftColumn .videoPlayer {
-    width: 80%;
+    width: 100%;
   }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   .watchLeftColumn .videoPlayer {
-    width: 90%;
+    width: 100%;
   }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   .watchLeftColumn .videoPlayer {
-    width: 90%;
+    width: 100%;
   }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   .watchLeftColumn .videoPlayer {
-    width: 35%;
+    width: 80%;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1400px) {
+  .watchLeftColumn .videoPlayer {
+    width: 70%;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 2000px) {
+  .watchLeftColumn .videoPlayer {
+    width: 60%;
   }
 }
 
