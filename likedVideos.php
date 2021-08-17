@@ -17,7 +17,7 @@ $videoGrid = new VideoGrid($con, $userLoggedInObj);
         echo $videoGrid->createLarge($videos, "Videos that you have liked", false);
     }
     else {
-        echo "NO videos to show";
+        echo "No videos to show";
     }
     ?>
 </div>
