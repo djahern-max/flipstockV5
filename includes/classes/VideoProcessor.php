@@ -136,7 +136,7 @@ class VideoProcessor {
     public function generateThumbnails($filePath) {
 
         $thumbnailSize = "210x118";
-        $numThumbnails = 3;
+        $numThumbnails = 1;
         $pathToThumbnail = "uploads/videos/thumbnails";
         
         $duration = $this->getVideoDuration($filePath);
