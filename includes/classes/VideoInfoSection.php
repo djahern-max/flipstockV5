@@ -90,6 +90,8 @@ class VideoInfoSection {
                     <br/>
                     <br/>
                     (The app I use is called “StocksTracker.”  It is a free app that can be downloaded from the app store.  It is priceless to me.  No pricey Boomberg Terminals here!  With this app, and lots of research, I have been able to achieve a 1,571% return over the past three years).
+                    <br/>
+                    <br/>
                     Good luck!!
                     <br/>
                     <br/>
