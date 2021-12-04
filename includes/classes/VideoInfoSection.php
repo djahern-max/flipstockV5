@@ -76,7 +76,7 @@ class VideoInfoSection {
                     <br/>
                     <br/>
                     HOW SHOUD YOU POSITION:
-                   
+                    <br/>
                     <br/>
                     It is very rare to hear a money manager recommend holding cash.  Ray Dalio, who started the worlds largest hedge fund Bridgewater Associates, often preaches the dangers of holding cash.  However, this week it was refreshing to hear Dan Niles, the founder of the Santori Fund, state on CNBC that he believes it is important to hold cash right now.  That is a rare statement coming from a fund manager.  I believe that we are at a point in the cycle that “Cash is King” again.  Sure, inflation might be running at ~6% annually right now, which is not good.  But, if you were invested in the NASDAQ on Friday, you lost around 2% of your money….   in ONE DAY!   Many of us have experienced some great gains in 2021 with the DJIA up 12.98%, the NASDAQ up 17.05% and the S&P up 20.83%, so what is the danger of taking money off the table while waiting for better opportunities.  For this reason, I am currently 100% in cash. 
                     <br/>
