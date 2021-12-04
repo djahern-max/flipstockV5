@@ -57,11 +57,11 @@ class VideoInfoSection {
                                 </a>
                             </span>
                             <span class='date'>Published on $uploadDate</span>
-<div                           
+                     
 Why were investors so skittish this week?  Was it inflation, or was it the new COVID variant “Omicron?”  I don’t think so.  Plain and simple, I believe the markets are volatile because of Jerome Powell’s flip-flopping related to his stance on inflation.  For months, he has been communicating to the world that inflation is “transitory.”  Suddenly, he has stated that that word should be…. retired.  Seriously?!?!
 In my mind, his thought process is very transparent.  He has been re-confirmed.  Now he is free to act responsibly (for a change) and take actions to deflate the ridiculous bubble that has become the US Stock Market.  
 I honestly believe that Joe Biden is a lot smarter and more capable than people give him credit for.  This is just speculation, but I wouldn’t be surprised if he pulled Powell aside and said, “look, I will re-nominate you as Fed Chair, but the party has to end.”  Jerome Powell’s change in messaging to the market is extremely abrupt and, quite frankly, wishy-washy.  What do you really believe Jerome??  As a non-economist, lawyer, I simply don’t trust the man and I don’t think he is the right person to run the Federal Reserve.  It is not a popularity contest.  It is the most important job in the world in my opinion.  Young inexperienced investors have been drawn into the markets thinking that prices simply go up.  They will be taught a hard lesson.  I was one of them once.  I suppose we need those lessons, but I feel for those that will lose hard earned money.
-</div>
+
 <br/>
 HOW SHOUD YOU POSITION:
 It is very rare to hear a money manager recommend holding cash.  Ray Dalio, who started the worlds largest hedge fund Bridgewater Associates, often preaches the dangers of holding cash.  However, this week it was refreshing to hear Dan Niles, the founder of the Santori Fund, state on CNBC that he believes it is important to hold cash right now.  That is a rare statement coming from a fund manager.  I believe that we are at a point in the cycle that “Cash is King” again.  Sure, inflation might be running at ~6% annually right now, which is not good.  But, if you were invested in the NASDAQ on Friday, you lost around 2% of your money….   in ONE DAY!   Many of us have experienced some great gains in 2021 with the DJIA up 12.98%, the NASDAQ up 17.05% and the S&P up 20.83%, so what is the danger of taking money off the table while waiting for better opportunities.  For this reason, I am currently 100% in cash. 
