@@ -46,7 +46,7 @@ function getInputValue($name) {
         <div class="column">
 
             <div class="header">
-                <!-- <img src="assets/images/icons/favicon.png" title="logo" alt="Site logo"> -->
+                <img src="assets/images/icons/favicon.jpg" title="logo" alt="Site logo">
                 <h3>Sign In</h3>
                 <span>to continue to Flipstock</span>
             </div>
